@@ -1,0 +1,13 @@
+<blockquote>
+  <p><strong>Possible Duplicate:</strong><br>
+  <a href="https://stackoverflow.com/questions/4032163/android-delete-from-listview">Android Delete from listview</a>  </p>
+</blockquote>
+
+
+
+<p>
+   
+   
+  </p>
+
+<p>This is my layout that suppot delete from listview ,the problem is when listview height is higher than screen height it goes under the button , so need a solution for avoding it</p>
